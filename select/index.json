@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "アマヤドリ",
+  "base_artist": "Cö shu Nie",
+  "createdAt": "2026-03-16T09:48:37.627355Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "アマヤドリ",
+      "artist": "Cö shu Nie",
+      "has_synced": false,
+      "path": "select/pl_01_アマヤドリ_Cö_shu_Nie.txt"
+    }
+  ]
+}
